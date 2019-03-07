@@ -1,14 +1,13 @@
-name: "Trochilidae"
+#contiene la estructura de la página
+name: "my-website" #nombre de la pagina
 navbar:
-  title: "Colibríes de Costa Rica"
-  left:
-    - text: "Inicio"
-      href: index.html
+  title: "Sofia Pastor" #título principal de la página
+  right:              #significa que se estan tirando las pestañas a la derecha (si pone left es ala izquierda)
+    - text: "Principal"
+      href: index.html  #principal contenido en index (se georreferencia como html pero  es Rmd)
     - text: "Acerca de"
       href: about.html
-      
 output:
   html_document:
-    theme: darkly #de la pagina
-         
-
+    theme: sandstone #de la pagina
+    highlight: textmate

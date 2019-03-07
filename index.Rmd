@@ -1,26 +1,11 @@
 ---
-title: "Colibrís de Costa Rica"
+title: "intobiosophie"
 ---
 
-# Bienvenidos al sitio de colibríes de Costa Rica.
+# ¡Hola amantes del saber!
 
-\
-\
-<p align="justify">
- Los colibríes se encuentran unicamente en el continente americano. Su mayor biodiversidad se concentra en los países ubicados en el neotrópico prefiriendo ciertos sectores sudamericanos y centroamericanos. En Costa Rica contamos con 49 especies de 343 especies descritas y algunas de ellas son endémicas del país.
-</p>
-\
-\
-\
-\
+### Esta es una página que pretende compartir ciencia de manera amigable a toda la población. 
 
-<p align="center">
-![](imagenes/colibris.jpg){width=600px}
-</p>
-
-\
-\
-\
-\
+La idea es llevar nuestras mentes a un rumbo mas <span style="color:green">verde</span> 
 
 
